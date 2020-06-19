@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63e77a6b.chunk.css",
+    "main.js": "/static/js/main.385607d3.chunk.js",
+    "main.js.map": "/static/js/main.385607d3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.35eb2b37.js",
+    "runtime-main.js.map": "/static/js/runtime-main.35eb2b37.js.map",
+    "static/css/2.e22647b5.chunk.css": "/static/css/2.e22647b5.chunk.css",
+    "static/js/2.ca6e2fe9.chunk.js": "/static/js/2.ca6e2fe9.chunk.js",
+    "static/js/2.ca6e2fe9.chunk.js.map": "/static/js/2.ca6e2fe9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ec058eebfa45d50888e70741df96beaa.js": "/precache-manifest.ec058eebfa45d50888e70741df96beaa.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.e22647b5.chunk.css.map": "/static/css/2.e22647b5.chunk.css.map",
+    "static/css/main.63e77a6b.chunk.css.map": "/static/css/main.63e77a6b.chunk.css.map",
+    "static/js/2.ca6e2fe9.chunk.js.LICENSE.txt": "/static/js/2.ca6e2fe9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Arizonia-Regular.8bfbc526.ttf",
+    "static/media/bgimage1.jpg": "/static/media/bgimage1.b39ffa38.jpg",
+    "static/media/bgimage2.jpg": "/static/media/bgimage2.cea94f68.jpg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/profilepic.jpg": "/static/media/profilepic.41ad06aa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35eb2b37.js",
+    "static/css/2.e22647b5.chunk.css",
+    "static/js/2.ca6e2fe9.chunk.js",
+    "static/css/main.63e77a6b.chunk.css",
+    "static/js/main.385607d3.chunk.js"
+  ]
+}
